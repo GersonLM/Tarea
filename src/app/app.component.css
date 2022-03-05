@@ -1,6 +1,7 @@
 .container {
     width: 1512px;
     margin: 0px auto;
+    position: relative;
 
 }
 .fondo {
