@@ -3,3 +3,9 @@
     margin: 0px auto;
 
 }
+.fondo {
+    background-image: url("../assets/images/FondoInicio.png");
+    width: 1512px;
+    height: 981px;
+
+}

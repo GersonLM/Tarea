@@ -1,13 +1,6 @@
-.fondo {
-    background-image: url("../../../assets/images/FondoInicio.png");
-    width: 1512px;
-    height: 981px;
-
-}
 .inicio__container {
     position: relative;
     width: 1512px;
-    background-color: #e51ed4;
 }
 .grid-container {
     display: flex;

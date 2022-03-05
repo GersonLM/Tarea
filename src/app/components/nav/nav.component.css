@@ -1,7 +1,6 @@
 .nav--container {
-    position: absolute;
-    left: 108px;
-    top: 51px;
+    margin-top: 51px;
+    margin-left: 108px;
     background-color:#fff;
     border-radius: 50px;
     max-width: 1295px;
